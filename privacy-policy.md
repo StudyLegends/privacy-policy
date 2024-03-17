@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "利用規約"
-permalink: /privacy-policy/
+permalink: privacy-policy
 ---
 
 # プライバシーポリシー
